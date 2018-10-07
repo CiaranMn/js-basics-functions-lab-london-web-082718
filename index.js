@@ -7,8 +7,6 @@ function distanceFromHqInFeet(loc) {
 }
 
 function distanceTravelledInFeet(start, end) {
-  let start = start;
-  let end = end;
   return (start - end) * 264;
 }
 
