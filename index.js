@@ -6,8 +6,8 @@ function distanceFromHqInBlocks(block) {
   }
 }
 
-function distanceFromHqInFeet(loc) {
-  distanceFromHqInBlocks
+function distanceFromHqInFeet(block) {
+  return distanceFromHqInBlocks(loc)
 }
 
 function distanceTravelledInFeet(start, end) {
