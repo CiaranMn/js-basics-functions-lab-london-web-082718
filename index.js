@@ -7,8 +7,12 @@ function distanceFromHqInFeet(loc) {
 }
 
 function distanceTravelledInFeet(start, end) {
-  
+  return (start - end) * 264;
 }
 
-function calculatesFarePrice
+function calculatesFarePrice(start, end) {
+  distance = distanceTravelledInFeet(start, end);
+  switch distance
+    case 
+}
 
