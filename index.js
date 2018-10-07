@@ -1,1 +1,14 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks(block) {
+  
+}
+
+function distanceFromHqInFeet(loc) {
+  distanceFromHqInBlocks
+}
+
+function distanceTravelledInFeet(start, end) {
+  
+}
+
+function calculatesFarePrice
+
